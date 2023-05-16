@@ -61,7 +61,7 @@ body {
 }
 .home {
     height: 100vh;
-    background: url('imagens/homerenan.jpg') no-repeat;
+    background: url('homerenan.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
